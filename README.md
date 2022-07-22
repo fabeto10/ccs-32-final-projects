@@ -48,10 +48,18 @@ ctrl + [board](https://github.com/users/rhjardine/projects/3/views/1)
 
 ## club de lectura 📘
 
-espacio para creación y gestión de clubes y grupos de lectura.
+Es una ambiente para ofrecer un servicio dirigido aquellas personas amantes de la lectura, cuenta con la capacidad para:
+- Organizar tu propio club con tu círculo social.
+- Unirte a grupos con temas diferentes. 
+- Conocer usuarios en tu localidad y con tus mismas preferencias o gustos.
+- Intercambiar libros con otros usuarios. 
+- Plantear criticas de los libros. 
+- Puntuar la experiencia generada al completar los intercambios realizados.
 
-> - Francisco Vidal
+De acuerdo a estas funcionalidades poderte ayudar cómo usuario, filtrar y ofrecerte las mejores recomendaciones.
+
 > - Alí Méndez
+> - Francisco Vidal
 > - Jesús Rajbe 🐱‍👤
 
 ctrl + [board](https://github.com/users/jerajbe/projects/1)
